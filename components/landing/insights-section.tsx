@@ -8,8 +8,8 @@ const insights = [
     icon: AlertTriangle,
     title: "Alto Consumo de Ultraprocessados",
     description:
-      "A maioria dos estudantes consome alimentos ultraprocessados diariamente, principalmente por conveniência e preço acessível no ambiente universitário.",
-    highlight: "45% consomem diariamente",
+      "Ainda há estudantes que consomem alimentos ultraprocessados diariamente, principalmente por conveniência e preço acessível no ambiente universitário.",
+    highlight: "11.1% consomem diariamente",
     color: "text-orange-500",
     bgColor: "bg-orange-50",
   },
@@ -18,7 +18,7 @@ const insights = [
     title: "Falta de Tempo",
     description:
       "A rotina acadêmica intensa é apontada como principal barreira para uma alimentação saudável, levando a escolhas rápidas e pouco nutritivas.",
-    highlight: "68% citam falta de tempo",
+    highlight: "77.8% citam falta de tempo",
     color: "text-blue-500",
     bgColor: "bg-blue-50",
   },

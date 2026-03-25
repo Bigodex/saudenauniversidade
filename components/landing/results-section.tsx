@@ -18,34 +18,33 @@ import {
 
 // TODO: Substituir pelos dados reais do formulário
 const mockData = {
-  totalEstudantes: 12,
+  totalEstudantes: 7,
   consumoFrutas: 44,
-  refeicoesPorDia: 2.8,
-  impactoPercebido: 72,
+  refeicoesPorDia: 3.6,
+  impactoPercebido: 77.8,
 }
 
 // TODO: Substituir pelos dados reais do formulário
 const leituraRotulosData = [
-  { name: "Sempre", value: 15, color: "#16a34a" },
-  { name: "Às vezes", value: 35, color: "#22c55e" },
-  { name: "Raramente", value: 30, color: "#86efac" },
-  { name: "Nunca", value: 20, color: "#dcfce7" },
+  { name: "Sempre", value: 22.2, color: "#16a34a" },
+  { name: "Às vezes", value: 44.4, color: "#22c55e" },
+  { name: "Raramente", value: 22.2, color: "#86efac" },
+  { name: "Nunca", value: 11.1, color: "#dcfce7" },
 ]
 
 // TODO: Substituir pelos dados reais do formulário
 const ultraprocessadosData = [
-  { frequencia: "Diariamente", porcentagem: 45 },
-  { frequencia: "3-5x/semana", porcentagem: 30 },
-  { frequencia: "1-2x/semana", porcentagem: 15 },
-  { frequencia: "Raramente", porcentagem: 10 },
+  { frequencia: "Diariamente", porcentagem: 11.1 },
+  { frequencia: "3-5x/semana", porcentagem: 22.2 },
+  { frequencia: "1-2x/semana", porcentagem: 55.6 },
+  { frequencia: "Raramente", porcentagem: 11.1 },
 ]
 
 // TODO: Substituir pelos dados reais do formulário
 const frutasVerdurasData = [
-  { frequencia: "Diariamente", porcentagem: 20 },
-  { frequencia: "3-5x/semana", porcentagem: 25 },
-  { frequencia: "1-2x/semana", porcentagem: 35 },
-  { frequencia: "Raramente", porcentagem: 20 },
+  { frequencia: "Diariamente", porcentagem: 44.4 },
+  { frequencia: "Algumas Vezes na Semana", porcentagem: 44.4 },
+  { frequencia: "Raramente", porcentagem: 11.1 },
 ]
 
 // TODO: Substituir pelos dados reais do formulário
